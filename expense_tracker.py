@@ -1,5 +1,5 @@
-# GOOD EVERYONE, EVERYONE!
-# THIS IS MY WEEK 3 CAPSTONE PROJECT.
+# GOOD EVENING, EVERYONE!
+# THIS IS MY WEEK 3 ASSIGNMENT.
 # HOPE I DID WELL.
 #######################################################EXPENSE_TRACKER#######################################################
 import csv
