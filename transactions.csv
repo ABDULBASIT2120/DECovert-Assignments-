@@ -1,0 +1,20 @@
+S/N,date,type,category,description,amount
+1,2026-09-01,income,Allowance,September allowance,50000.00
+2,2026-09-02,expense,Food,Lunch at campus canteen,1800.00
+3,2026-09-04,expense,Transport,Bus to campus (week),3500.00
+4,2026-09-05,expense,Data,Monthly data bundle,6000.00
+5,2026-09-09,expense,School,Printing and photocopy,1200.00
+6,2026-09-14,expense,Food,Groceries,8500.00
+7,2026-09-20,expense,Entertainment,Cinema with friends,3000.00
+8,2026-09-28,expense,Health,Pharmacy,2200.00
+9,2026-10-01,income,Allowance,October allowance,50000.00
+10,2026-10-02,expense,Rent,Hostel contribution,15000.00
+11,2026-10-03,expense,Food,Lunch and snacks,2400.00
+12,2026-10-06,expense,Transport,Bus to campus (week),3500.00
+13,2026-10-08,expense,Data,Monthly data bundle,6000.00
+14,2026-10-12,expense,School,Textbook,7500.00
+15,2026-10-15,income,Gift,Birthday gift,5000.00
+16,2026-10-19,expense,Food,Groceries,9000.00
+17,2026-10-24,expense,Entertainment,Anime merch,4500.00
+18,2026-10-28,expense,Other,Haircut,1500.00
+19,2026-10-25,income,Allowance,The Place Food,5000.00
